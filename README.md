@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elisha-George
 - 👀 I’m interested in coding and learning new skills
-- 🌱 I’m currently learning javascript and php
+- 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
