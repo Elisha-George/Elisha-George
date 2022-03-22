@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elisha-George
-- 👀 I’m interested in coding and learning new skills
+- 👀 I’m interested in web developement and creating new designs new s
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
