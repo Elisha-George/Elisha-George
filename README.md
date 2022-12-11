@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elisha-george&label=Profile%20views&color=0e75b6&style=flat" alt="elisha-george" /> </p>
 
-- 🔭 I’m currently working on **an Ecommerce Website**
+- 🔭 I’m currently working on **Data science projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS and Data Science**
 
 - 💬 Ask me about **Front End Devlopment**
 
