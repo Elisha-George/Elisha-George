@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elisha-george&label=Profile%20views&color=0e75b6&style=flat" alt="elisha-george" /> </p>
 
-- 🔭 I’m currently working on **Data science projects**
+- 🔭 I’m currently working on **Test Automation**
 
-- 🌱 I’m currently learning **React JS and Data Science**
+- 🌱 I’m currently learning **SpecFlow**
 
-- 💬 Ask me about **Front End Devlopment**
+- 💬 Ask me about **Testing and QA**
 
-- 📫 How to reach me **elishageorge111@gmail.com**
+- 📫 How to reach me **elishageorge806@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/elisha-george-9a03b423b/](https://www.linkedin.com/in/elisha-george-9a03b423b/)
 
